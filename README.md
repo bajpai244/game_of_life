@@ -13,7 +13,7 @@ The universe of the Game of Life is an infinite, two-dimensional orthogonal grid
 - Any live cell with more than three live neighbours dies, as if by overpopulation.
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
-![Trefoil Knot GIF](https://en.wikipedia.org/wiki/File:Trefoil_knot_conways_game_of_life.gif)
+![Trefoil Knot GIF](https://upload.wikimedia.org/wikipedia/commons/6/64/Trefoil_knot_conways_game_of_life.gif)
 
 These rules, which compare the behavior of the automaton to real life, can be condensed into the following:
 
