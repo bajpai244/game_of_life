@@ -1,3 +1,9 @@
-html{
+html,body{
 background-color: black;
+height: 100vh;
+width: 100vw;
+}
+
+#game_of_life_grid{
+	background-color: orange;
 }

@@ -1,6 +1,3 @@
-const get_dimensions = () => {
-  const html = window.document.getElementsByTagName("html")[0];
+import { render_grid } from './utils/index'
 
-  const client_height = html.clientHeight;
-  const client_width = html.clientWidth;
-};
+render_grid()

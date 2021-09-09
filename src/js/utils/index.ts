@@ -1,1 +1,1 @@
-export { default as get_dimensions } from "./get_dimensions";
+export { default as render_grid } from "./render_grid"
